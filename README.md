@@ -25,7 +25,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-
 <br>
 
 ### Dá uma olhada aí!
@@ -33,3 +32,11 @@
 [<img src='http://img.shields.io/badge/-facebook-4267B2?style=flat-square&logo=facebook&logoColor=ffffff' height='20'>](https://facebook.com/nunesauren)
 [<img src='http://img.shields.io/badge/-linkedin-0E76A8?style=flat-square&logo=linkedin&logoColor=ffffff' height='20'>](https://www.linkedin.com/in/aureliano-nunes-6bb0871b7/)
 [<img src='http://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff' height='20'>](https://twitter.com/aurennunes)
+
+
+<br>
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurennunes&layout=compact&hide=html&count_private=true" alt="aurennunes" /></div>
+<br>
+<br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=aurennunes&show_icons=true&count_private=true" alt="aurennunes" /></div>
