@@ -1,6 +1,6 @@
 # Olá! Sou eu, Aureliano Nunes :grin:
 
-- :point_right: Trabalho como desenvolvedor web na DENTEC Technology atualmente
+- :point_right: Trabalho como desenvolvedor na Andoriha Tecnologias atualmente
 - :point_right: Estudo sempre as tecnologias que uso para não ficar no "tempo"
 
 <br> 
