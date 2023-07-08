@@ -1,8 +1,6 @@
-# Olá! Sou eu, Aureliano Nunes :grin:
+# Olá! É o Aureliano Nunes :grin:
 
-- :point_right: Trabalho como desenvolvedor na Andoriha Tecnologias atualmente
-- :point_right: Estudo sempre as tecnologias que uso para não ficar no "tempo"
-
+- :point_right: Trabalho como desenvolvedor na Andorinha Tecnologias atualmente
 <br> 
 
 ### Ferramentas e linguagens
