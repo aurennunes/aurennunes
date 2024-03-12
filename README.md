@@ -33,12 +33,4 @@
 [<img src='http://img.shields.io/badge/-instagram-405DE6?style=flat-square&logo=instagram&logoColor=ffffff' height='20'>](https://www.instagram.com/nunesauren)
 [<img src='http://img.shields.io/badge/-facebook-4267B2?style=flat-square&logo=facebook&logoColor=ffffff' height='20'>](https://facebook.com/nunesauren)
 [<img src='http://img.shields.io/badge/-linkedin-0E76A8?style=flat-square&logo=linkedin&logoColor=ffffff' height='20'>](https://www.linkedin.com/in/aureliano-nunes-6bb0871b7/)
-[<img src='http://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff' height='20'>](https://twitter.com/aurennunes)
-
-
-<br>
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aurennunes&show_icons=true&count_private=true&theme=dark" alt="aurennunes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurennunes&layout=compact&hide=html&count_private=true&theme=dark" alt="aurennunes" />
-</div>
+[<img src='http://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff' height='20'>](https://twitter.com/auren_dev)
