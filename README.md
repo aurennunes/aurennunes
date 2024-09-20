@@ -1,6 +1,5 @@
 # Olá! É o Aureliano Nunes :grin:
 
-- :point_right: Trabalho como desenvolvedor na Andorinha Tecnologias atualmente
 <br> 
 
 ### Ferramentas e linguagens
