@@ -1,8 +1,8 @@
 ```rust
-use io;
+use io
 
 func main() {
-  io.print("Hello, World!");
+  io.print("Hello, World!")
 }
 ```
 
